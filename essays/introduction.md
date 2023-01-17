@@ -10,7 +10,7 @@ labels:
   - MIS
 ---
 
-*Going into university, I never planned to major in Management Information Systems*
+*Going into university, I never planned to major in Management Information Systems.*
 
 When I was in high school, my mother suggested I took a STEM related course as one of my electives. Initially, I did not like the idea of this as I was afraid of trying something new. The STEM course I took was actually similar to a coding class. The first week of school seemed overwhelming and scary from all the assignments, guidelines, and expectations of the class. However, over time I started to like coding. In my first year, I learned coding languages such as HTML, CSS, and Javascript. Needless to say, I took all 4 years of different coding classes throughout high school.
 
