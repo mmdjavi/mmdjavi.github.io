@@ -1,26 +1,22 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "name": "Mikaela Mae Javillo",
+    "label": "Shidler Undergraduate",
+    "picture": "https://github.com/mmdjavi.png",
+    "email": "mmdjavi@hawaii.edu",
+    "phone": "808-209-3040",
+    "website": "https://mmdjavi.github.io",
+    "summary": "I am studying for a BBA in Management Information Systems in the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Fall 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mmjavi", "url": "http://github.com/mmdjavi" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Anime" },
+    { "name": "Kdrama" },
+    { "name": "Kpop/Jpop" },
+    { "name": "Videogames" }
   ],
   "skills": [
     {
